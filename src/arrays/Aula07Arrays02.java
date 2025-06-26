@@ -1,4 +1,4 @@
-package maratonajava.aulas.codigos;
+package arrays;
 
 import java.util.Scanner;
 

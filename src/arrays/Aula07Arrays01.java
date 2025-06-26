@@ -1,4 +1,4 @@
-package maratonajava.aulas.codigos;
+package arrays;
 
 public class Aula07Arrays01 {
     public static void main(String[] args) {

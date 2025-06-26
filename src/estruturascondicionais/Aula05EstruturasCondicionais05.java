@@ -1,4 +1,4 @@
-package maratonajava.aulas.codigos;
+package estruturascondicionais;
 
 import java.util.Scanner;
 

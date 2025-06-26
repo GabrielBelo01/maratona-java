@@ -1,4 +1,4 @@
-package maratonajava.aulas.codigos;
+package introducao;
 
 public class Aula01OlaMundo {
 
