@@ -1,4 +1,4 @@
-package exercicios.aulas.codigos;
+package exercicios;
 
 import java.util.Scanner;
 
