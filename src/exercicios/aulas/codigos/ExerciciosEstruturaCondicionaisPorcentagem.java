@@ -2,7 +2,7 @@ package exercicios.aulas.codigos;
 
 import java.util.Scanner;
 
-public class Aula05ExerciciosPorcentagem {
+public class ExerciciosEstruturaCondicionaisPorcentagem {
     // 0 a 34.712  = 9.70%
     // 34.713 a 68.507 = 37.35%
     // 68.508       = 49.50%
