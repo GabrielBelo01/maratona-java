@@ -1,2 +1,2 @@
 # maratona-java
-codigos das aulas e exercicios do curso do devdojo
+codigos das aulas e introducaojava.exercicios do curso do devdojo

@@ -1,4 +1,4 @@
-package estruturascondicionais;
+package introducaojava.estruturascondicionais;
 import java.util.Scanner;
 
 public class Aula05EstruturasCondicionais01 {

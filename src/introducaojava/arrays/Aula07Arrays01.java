@@ -1,4 +1,4 @@
-package arrays;
+package introducaojava.arrays;
 
 public class Aula07Arrays01 {
     public static void main(String[] args) {

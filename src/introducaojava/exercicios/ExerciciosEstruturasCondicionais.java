@@ -1,4 +1,4 @@
-package exercicios;
+package introducaojava.exercicios;
 
 public class ExerciciosEstruturasCondicionais {
     public static void main(String[] args) {

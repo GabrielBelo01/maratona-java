@@ -1,4 +1,4 @@
-package introducao;
+package introducaojava.introducao;
 
 public class Aula01OlaMundo {
 
