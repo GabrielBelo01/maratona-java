@@ -1,9 +1,9 @@
-package javacore.introducaoclasses.test;
+package javacore.Aintroducaoclasses.test;
 
 
-import javacore.introducaoclasses.dominio.Estudante;
+import javacore.Aintroducaoclasses.dominio.Estudante;
 
-public class EstudandeTeste {
+public class EstudandeTeste01 {
     public static void main(String[] args) {
         Estudante estudante = new Estudante();
         estudante.nome = "Maria";
